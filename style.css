@@ -1,0 +1,19 @@
+.mainctn{
+    height: 700px;
+    width: 100%;
+    background-image: url(./img/360_F_589153575_HHl7ilalywWNB6RDbjrF0jJB2AHxz2UP.jpg);
+    background-repeat:inherit;
+}
+.cardplc{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+.card-img-top1{
+    height: 250px;
+}
+.visually-hidden{
+    margin-left: 50px;
+}
